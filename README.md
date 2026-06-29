@@ -1,10 +1,7 @@
 # Hi, I'm Vivek Lathiya
+### Backend Engineer | Applied AI Systems
 
-### Backend & AI Engineer
-
-**Research Intern @ C-DAC, NIT Trichy**
-
-Building scalable backend systems, AI-powered applications, and computer vision pipelines.
+Building scalable backend systems and retrieval/AI pipelines. Currently a Research Intern at C-DAC, NIT Trichy.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vivek-lathiya-b29a172aa/">
@@ -16,115 +13,56 @@ Building scalable backend systems, AI-powered applications, and computer vision 
   <a href="https://www.codechef.com/users/snow_man_17">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+  <a href="LINK_TO_RESUME">
+    <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About
 
-I enjoy building software systems that combine scalable backend engineering with applied artificial intelligence.
+I build backend systems and AI-powered applications — currently working across distributed systems, retrieval-augmented generation, and computer vision retrieval pipelines.
 
-My primary interests include:
-
-* Backend Engineering
-* Distributed Systems
-* Retrieval-Augmented Generation (RAG)
-* Computer Vision
-* Large Language Models
-* Production-grade APIs
+- Backend Engineering (Node.js, Express, distributed systems)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision / Visual Retrieval
+- Production-grade API design
 
 ---
 
-## Current Focus
+## Projects
 
-* Research in Person Re-Identification for Multi-Camera Tracking
-* Backend Engineering
-* AI Systems
-* Distributed Systems
-* Designing production-ready software
+### Person Re-Identification — Multi-Camera Tracking
+Modular computer vision pipeline for person re-identification using deep visual embeddings and similarity search. Built as part of ongoing research at C-DAC on scalable image retrieval for surveillance/multi-camera environments.
 
----
+- DINOv2 embeddings, FAISS vector search, PyTorch
+- [FILL IN: retrieval accuracy / mAP / rank-1, e.g. "Rank-1 accuracy of X% on Y dataset"]
+- [FILL IN: scale, e.g. "indexed X images, retrieval latency Yms"]
+- Includes evaluation workflows and a visualization pipeline
 
-## Research
+**Repo:** [github.com/Ivivek-17/person-reid](https://github.com/Ivivek-17/person-reid)
 
-### Research Intern
-
-**C-DAC, NIT Trichy**
-
-Working on **Person Re-Identification for Multi-Camera Tracking**, focusing on scalable image retrieval pipelines using deep visual embeddings and similarity search.
-
-Current work includes developing modular computer vision components, evaluation workflows, and retrieval systems suitable for real-world surveillance and multi-camera environments.
-
----
-
-## Engineering Work
-
-### Person Re-Identification
-
-A modular computer vision pipeline for person re-identification using deep visual embeddings and similarity search.
-
-Highlights:
-
-* DINOv2 embeddings
-* FAISS vector search
-* PyTorch
-* Retrieval evaluation
-* Visualization pipeline
-
-Repository:
-
-> github.com/Ivivek-17/person-reid
-
----
-
-### Upcoming Projects
-
-These repositories will be added once they are publicly available.
-
-* ContextCore
-* FilingIQ
+> More projects (backend + RAG systems) in progress — will be added as they ship.
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages:** C++ · Python · JavaScript · SQL
 
-`C++` `Python` `JavaScript` `SQL`
+**Backend:** Node.js · Express · FastAPI
 
-### Backend
+**AI/ML:** PyTorch · LangChain · Transformers · FAISS
 
-`Node.js`
-`Express`
-`FastAPI`
+**Databases:** MongoDB · Redis · ChromaDB
 
-### AI / ML
-
-`PyTorch`
-`LangChain`
-`Transformers`
-`FAISS`
-
-### Databases
-
-`MongoDB`
-`Redis`
-`ChromaDB`
-
-### Infrastructure
-
-`Docker`
-`Linux`
-`AWS`
-`Git`
+**Infra:** Docker · Linux · AWS · Git
 
 ---
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/vivek-lathiya-b29a172aa/
-* CodeChef: https://www.codechef.com/users/snow_man_17
-
----
-
-> Building software with a focus on engineering quality, scalability, and practical AI applications.
+- LinkedIn: [vivek-lathiya](https://www.linkedin.com/in/vivek-lathiya-b29a172aa/)
+- CodeChef: [snow_man_17](https://www.codechef.com/users/snow_man_17)
+- Email: ADD_EMAIL_HERE
