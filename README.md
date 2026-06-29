@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lvivek-17)   
 # Hi, I'm Vivek Lathiya
 
 ### Backend & AI Engineer
