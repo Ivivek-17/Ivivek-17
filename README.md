@@ -121,24 +121,6 @@ These repositories will be added once they are publicly available.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ivivek-17&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivivek-17&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivivek-17&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/vivek-lathiya-b29a172aa/
