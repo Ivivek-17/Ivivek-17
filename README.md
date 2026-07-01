@@ -65,4 +65,4 @@ Modular computer vision pipeline for person re-identification using deep visual 
 
 - LinkedIn: [vivek-lathiya](https://www.linkedin.com/in/vivek-lathiya-b29a172aa/)
 - CodeChef: [snow_man_17](https://www.codechef.com/users/snow_man_17)
-- Email: ADD_EMAIL_HERE
+- Email: lathiyavivekai@gmail.com
